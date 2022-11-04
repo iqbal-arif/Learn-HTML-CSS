@@ -1,0 +1,48 @@
+Intro
+Last updated May 2022
+
+Welcome to Learn HTML CSS!
+
+This course will teach you semantic and accessible HTML and CSS.
+
+While many courses teach HTML and CSS, this course follows a different approach. It's not only interactive but also aims to teach you the best practices for HTML and CSS.
+
+Lessons are meant to teach you short information that you will apply directly in the following challenges.
+
+You will learn concepts step by step and then apply what you learned to build two projects.
+
+This course requires no prerequisites. It's meant for students who want to learn HTML and CSS.
+
+The first 15 chapters (121 lessons and challenges) are totally free; after that, you will be asked to upgrade (a one-time payment that gives you access for 5 years) if you'd like to get access to the full course.
+Which browsers does this course aim to support?
+
+The concepts we teach in this course are supported on the last two versions of all major browsers. We do not support Internet Explorer as Microsoft has officially withdrawn it.
+What can I expect?
+
+This course is different than many HTML and CSS courses. It does not aim to teach you things the quick and dirty way. As you will see, browsers are very lenient with the HTML and CSS we write. However, suppose you write sub-optimal HTML code. In that case, you will be excluding people from using your website, miss out on SEO benefits, miss out on some browser features, and more.
+
+This is a slow course. You may also have the urge to skip chapters because you know some of the concepts. While it is possible to skip chapters (from the bottom-right help center), we recommend that you don't.
+
+The same applies to CSS. CSS has earned a reputation for it being confusing. However, once you learn about inheritance, the cascade, and some nuances step by step, you will finally understand CSS.
+Mobile flashcards
+
+Every time you complete a challenge, you unlock a new set of flashcards that help you recap and persist new concepts.
+Flashcard instructions will show up once you complete this chapter.
+What can I build at the end of this course?
+
+Throughout this course, you will be working on two types of challenges:
+challenges with minimal styling that help you practice what you just learned. Then, you'll get the opportunity to practice what you learned on two real projects.
+
+The first project is a portfolio website. Once you complete the course, you will be able to customize this portfolio website and use it as your own.
+
+The second project is a mobile web app called MyBank. It simulates a banking mobile web app. The web app is static, meaning we're only working on the HTML and CSS. It does not call any API or external service and has no programming logic.
+
+Check out the screencasts from these two projects below to get an idea of what you will be able to build (click on a video to play).
+Please note that these two projects have a few lines of JavaScript that will be given to you. This course does not teach JavaScript.
+
+https://portfolio.learnhtmlcss.online
+
+https://mybank.learnhtmlcss.online (This project has a prototype mode. If you click on a non-clickable area, the clickable areas will flash.)
+Are you ready?
+
+When you're done, click next or press cmd+enter (on mac) or ctrl+enter (on Windows/Linux) to proceed to the next lesson.
