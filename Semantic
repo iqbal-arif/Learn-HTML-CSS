@@ -162,3 +162,39 @@ Recap
     If you're not sure which element should be labeled as the h1 on the page, ask yourself: What is the most important topic on this page?
 *************************************************************************************************************************************************************
 
+********************************************************************************
+3.0 Intro to emmet
+********************************************************************************
+Before proceeding with the course, we'd like to teach you about emmet.
+
+Emmet is a code editor plugin that allows you to write HTML faster (among other things).
+If you're using Visual Studio Code, then emmet is already installed.
+
+Emmet is also already installed in the desktop editor of this course. Unfortunately, if you're visiting the course on mobile, it won't work.
+
+3.1 HTML element + tab
+********************************************************************************
+
+Instead of writing <h1>, you can write h1 and then press the Tab key on your keyboard, which will automatically convert it to <h1></h1>.
+
+This saves you time from:
+
+    writing the < and > characters (especially on some keyboard layouts where those keys are slightly hidden)
+    writing the corresponding closing tag (</h1> in this example)
+
+Generally, you will make fewer mistakes when using emmet, so we recommend that you get used to it from the start!
+
+3.2 Emmet offers much more
+********************************************************************************
+
+Emmet offers a lot more! Here's a sneak peek, but promise that you won't get discouraged as the preview below contains lots of things that we have not explained yet!
+
+This is a bit of an advanced use case, so don't worry if it looks like it's over complicated. It aims to 'show off' emmet's capabilities, but you don't always have to use them!
+
+*************************************************************************************************************************************************************
+Recap
+
+    Emmet is a code editor plugin that allows you to write HTML faster (among other things).
+    Instead of writing <h1></h1> yourself, you can type h1 and then press the Tab key on your keyboard and the h1 will automatically be replaced by
+    <h1></h1>.
+*************************************************************************************************************************************************************
