@@ -57,3 +57,11 @@ Here are some benefits of accessibility:
     In some countries or organizations, accessibility is a legal requirement. That is the case in several countries.
 
 In this course, you will learn about accessibility step by step as we learn new concepts in HTML/CSS. This will make the concept of accessibility accessible ;).
+
+Headings & Accessibility 
+Last updated April 2022
+In the previous chapter, we learned about the Heading (level) 1 element h1.
+
+In this lesson, we'll get a short introduction to the impact of headings on accessibility.
+
+In the previous lesson, we mentioned enabling access through the use of assistive technology. A screen reader is one example of assistive technology. A magnifier is another example of assistive technology.
